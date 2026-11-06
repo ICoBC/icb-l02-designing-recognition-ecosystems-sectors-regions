@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-L02",
+  "repository": "icb-l02-designing-recognition-ecosystems-sectors-regions",
+  "repository_url": "https://github.com/ICoBC/icb-l02-designing-recognition-ecosystems-sectors-regions",
+  "title": "Designing Recognition Ecosystems for Sectors and Regions",
+  "subtitle": "Governance, standards, quality and funding for recognition at scale.",
+  "version": "1.0.0",
+  "series": "Leadership",
+  "skill": "Ecosystem and recognition partnerships",
+  "level": "5",
+  "level_name": "Shape",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-ECOS-L5-A",
+  "badge_name": "Designing Recognition Ecosystems for Sectors and Regions (Ability, L5)",
+  "hours": "16",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-l02/",
+  "parts": [
+    "About this course",
+    "Ecosystem analysis",
+    "Governance design",
+    "Standards choices",
+    "Funding",
+    "Adoption",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 11,
+  "practice_questions": 20
+}
